@@ -1,2 +1,2 @@
-# rust-tasks
-rust practice 
+Rust practice
+use `Cargo run` to compile and run
